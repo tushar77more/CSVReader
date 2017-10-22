@@ -1,0 +1,517 @@
+2017-10-22 15:00:00 INFO  ReadCSVFile:37 - Configuration reading started...
+2017-10-22 15:00:00 INFO  ReadCSVFile:47 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 15:00:00 INFO  ReadCSVFile:88 - Reading from input file
+2017-10-22 15:00:00 INFO  ReadCSVFile:103 - Creating JSON object
+2017-10-22 15:01:17 INFO  ReadCSVFile:37 - Configuration reading started...
+2017-10-22 15:01:17 INFO  ReadCSVFile:47 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 15:01:17 INFO  ReadCSVFile:88 - Reading from input file
+2017-10-22 15:01:17 INFO  ReadCSVFile:103 - Creating JSON object
+2017-10-22 15:02:09 INFO  ReadCSVFile:37 - Configuration reading started...
+2017-10-22 15:02:09 INFO  ReadCSVFile:47 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 15:02:09 INFO  ReadCSVFile:88 - Reading from input file
+2017-10-22 15:02:09 INFO  ReadCSVFile:103 - Creating JSON object
+2017-10-22 15:02:58 INFO  ReadCSVFile:37 - Configuration reading started...
+2017-10-22 15:02:58 INFO  ReadCSVFile:47 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 15:02:58 INFO  ReadCSVFile:88 - Reading from input file
+2017-10-22 15:02:58 INFO  ReadCSVFile:103 - Creating JSON object
+2017-10-22 15:48:41 INFO  ReadCSVFile:36 - Configuration reading started...
+2017-10-22 15:48:41 INFO  ReadCSVFile:44 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 15:48:41 INFO  ReadCSVFile:77 - Reading from input file
+2017-10-22 15:48:41 INFO  ReadCSVFile:115 - Creating JSON object
+2017-10-22 16:03:54 INFO  ReadCSVFile:38 - Configuration reading started...
+2017-10-22 16:03:54 INFO  ReadCSVFile:46 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isnull
+2017-10-22 16:03:54 ERROR ReadCSVFile:51 - Sorry, something wrong with Configuration!
+2017-10-22 16:05:17 INFO  ReadCSVFile:38 - Configuration reading started...
+2017-10-22 16:05:17 INFO  ReadCSVFile:46 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isnull
+2017-10-22 16:05:17 ERROR ReadCSVFile:51 - Sorry, something wrong with Configuration!
+2017-10-22 16:08:15 INFO  ReadCSVFile:38 - Configuration reading started...
+2017-10-22 16:08:15 INFO  ReadCSVFile:46 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isnull
+2017-10-22 16:08:15 ERROR ReadCSVFile:51 - Sorry, something wrong with Configuration!
+2017-10-22 16:09:02 INFO  ReadCSVFile:38 - Configuration reading started...
+2017-10-22 16:09:02 INFO  ReadCSVFile:46 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 16:09:02 INFO  ReadCSVFile:79 - Reading from input file
+2017-10-22 16:09:02 INFO  ReadCSVFile:117 - Creating JSON object
+2017-10-22 17:24:22 INFO  ReadCSVFile:58 - Configuration reading started...
+2017-10-22 17:24:35 INFO  ReadCSVFile:66 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 17:24:37 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:24:37 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:24:47 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:24:47 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:24:57 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:24:57 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:25:07 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:25:07 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:25:17 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:25:17 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:25:27 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:25:27 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:25:37 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:25:37 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:25:47 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:25:47 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:25:57 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:25:57 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:26:07 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:26:07 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:26:17 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:26:17 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:26:37 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:26:37 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:26:50 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:26:50 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:27:17 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:27:17 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:28:35 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:28:35 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:28:37 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:28:37 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:29:07 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:29:07 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:29:08 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:29:08 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:29:18 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:29:18 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:29:33 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:29:33 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:29:34 INFO  ReadCSVFile:76 - Application Terminates
+2017-10-22 17:41:52 INFO  ScheduledTask:53 - Configuration reading started...
+2017-10-22 17:41:52 INFO  ScheduledTask:61 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 17:41:52 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:41:52 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:42:02 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:42:02 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:42:12 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:42:12 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:42:22 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:42:22 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:42:32 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:42:32 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:42:42 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:42:42 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:42:52 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:42:52 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:43:02 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:43:02 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:43:12 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:43:12 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:43:22 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:43:22 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:43:32 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:43:32 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:43:42 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:43:42 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:43:52 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:43:52 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:44:02 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:44:02 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:44:12 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:44:12 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:44:22 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:44:22 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:44:32 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:44:32 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:44:42 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:44:42 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:44:52 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:44:52 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:45:02 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:45:02 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:45:12 INFO  ReadCSVFile:97 - Reading from input file
+2017-10-22 17:45:12 INFO  ReadCSVFile:135 - Creating JSON object
+2017-10-22 17:45:56 INFO  ScheduledTask:53 - Configuration reading started...
+2017-10-22 17:45:56 INFO  ScheduledTask:61 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 17:45:56 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:45:56 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:45:56 ERROR ReadCSVFile:152 - Exception in json object writting
+2017-10-22 17:46:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:46:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:46:06 ERROR ReadCSVFile:152 - Exception in json object writting
+2017-10-22 17:47:32 INFO  ScheduledTask:53 - Configuration reading started...
+2017-10-22 17:47:32 INFO  ScheduledTask:61 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 17:47:32 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:47:32 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:47:42 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:47:42 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:47:52 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:47:52 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:48:02 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:48:02 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:48:12 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:48:12 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:48:22 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:48:22 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:48:32 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:48:32 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:48:42 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:48:42 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:48:52 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:48:52 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:49:02 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:49:02 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:49:12 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:49:12 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:49:22 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:49:22 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:49:32 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:49:32 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:49:42 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:49:42 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:49:52 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:49:52 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:52:29 INFO  ScheduledTask:53 - Configuration reading started...
+2017-10-22 17:52:29 INFO  ScheduledTask:61 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 17:52:29 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:52:29 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:52:29 ERROR ReadCSVFile:152 - Exception in json object writting
+2017-10-22 17:52:39 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:52:39 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:52:39 ERROR ReadCSVFile:152 - Exception in json object writting
+2017-10-22 17:52:49 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:52:49 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:52:49 ERROR ReadCSVFile:152 - Exception in json object writting
+2017-10-22 17:53:15 INFO  ScheduledTask:53 - Configuration reading started...
+2017-10-22 17:53:15 INFO  ScheduledTask:61 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 17:53:15 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:53:15 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:53:15 ERROR ReadCSVFile:152 - Exception in json object writting
+2017-10-22 17:53:36 INFO  ScheduledTask:53 - Configuration reading started...
+2017-10-22 17:53:36 INFO  ScheduledTask:61 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 17:53:36 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:53:36 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:53:46 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:53:46 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:53:56 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:53:56 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:54:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:54:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:54:16 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:54:16 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:57:45 INFO  ScheduledTask:53 - Configuration reading started...
+2017-10-22 17:57:45 INFO  ScheduledTask:61 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 17:57:45 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:57:45 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:57:55 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:57:55 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:58:05 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:58:05 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:58:15 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:58:15 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:58:25 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:58:25 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:58:35 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:58:35 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:58:45 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:58:45 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:58:55 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:58:55 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:59:05 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:59:05 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:59:15 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:59:15 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:59:25 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:59:25 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:59:35 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:59:35 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:59:45 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:59:45 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 17:59:55 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 17:59:55 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:00:05 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:00:05 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:00:15 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:00:15 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:00:25 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:00:25 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:00:35 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:00:35 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:00:45 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:00:45 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:00:55 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:00:55 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:01:05 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:01:05 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:01:15 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:01:15 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:01:25 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:01:25 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:01:35 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:01:35 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:01:45 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:01:45 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:01:55 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:01:55 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:02:05 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:02:05 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:02:15 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:02:15 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:02:25 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:02:25 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:02:35 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:02:35 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:02:45 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:02:45 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:02:55 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:02:55 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:03:05 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:03:05 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:03:15 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:03:15 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:03:25 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:03:25 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:03:35 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:03:35 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:03:45 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:03:45 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:03:55 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:03:55 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:04:05 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:04:05 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:04:15 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:04:15 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:04:25 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:04:25 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:04:35 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:04:35 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:04:45 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:04:45 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:04:55 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:04:55 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:05:05 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:05:05 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:05:15 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:05:15 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:05:25 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:05:25 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:05:35 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:05:35 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:05:45 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:05:45 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:05:55 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:05:55 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:06:05 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:06:05 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:06:15 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:06:15 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:06:25 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:06:25 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:06:35 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:06:35 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:06:45 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:06:45 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:06:55 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:06:55 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:07:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:07:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:07:16 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:07:16 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:07:26 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:07:26 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:07:36 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:07:36 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:07:46 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:07:46 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:07:56 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:07:56 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:08:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:08:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:08:16 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:08:16 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:08:26 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:08:26 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:08:36 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:08:36 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:08:46 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:08:46 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:08:56 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:08:56 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:09:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:09:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:09:16 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:09:16 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:09:26 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:09:26 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:09:36 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:09:36 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:09:46 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:09:46 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:09:56 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:09:56 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:10:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:10:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:10:16 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:10:16 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:10:26 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:10:26 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:10:36 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:10:36 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:10:46 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:10:46 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:10:56 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:10:56 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:11:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:11:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:11:16 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:11:16 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:11:26 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:11:26 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:11:36 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:11:36 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:11:46 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:11:46 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:11:56 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:11:56 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:12:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:12:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:12:16 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:12:16 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:12:26 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:12:26 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:12:36 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:12:36 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:12:46 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:12:46 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:12:56 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:12:56 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:13:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:13:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:13:16 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:13:16 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:13:26 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:13:26 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:13:36 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:13:36 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:13:46 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:13:46 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:13:56 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:13:56 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:14:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:14:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:14:16 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:14:16 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:14:26 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:14:26 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:14:36 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:14:36 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:14:46 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:14:46 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:14:56 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:14:56 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:15:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:15:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:15:16 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:15:16 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:15:26 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:15:26 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:15:36 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:15:36 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:15:46 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:15:46 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:15:56 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:15:56 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:16:06 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:16:06 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:16:16 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:16:16 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:16:26 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:16:26 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:18:31 INFO  ScheduledTask:53 - Configuration reading started...
+2017-10-22 18:18:31 INFO  ScheduledTask:61 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 18:18:31 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:18:31 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:19:31 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:19:31 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:20:31 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:20:31 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:21:31 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:21:31 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:22:18 INFO  ScheduledTask:53 - Configuration reading started...
+2017-10-22 18:22:18 INFO  ScheduledTask:61 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 18:22:18 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:22:18 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:22:39 INFO  ScheduledTask:53 - Configuration reading started...
+2017-10-22 18:22:39 INFO  ScheduledTask:61 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 18:22:41 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:22:41 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:23:43 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:23:43 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:24:52 INFO  ReadCSVFile:98 - Reading from input file
+2017-10-22 18:24:52 INFO  ReadCSVFile:136 - Creating JSON object
+2017-10-22 18:26:53 INFO  ScheduledTask:71 - Application Terminates
+2017-10-22 18:56:38 INFO  ScheduledTask:62 - Configuration reading started...
+2017-10-22 18:56:38 INFO  ScheduledTask:70 - Input File Names is resources\EmployeeDetails.csv 
+Output File Name isresources\EmployeeDetails.json
+2017-10-22 18:56:38 INFO  ScheduledTask:77 - Execution in Main Thread....
+2017-10-22 18:56:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 18:56:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 18:57:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 18:57:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 18:58:38 INFO  ScheduledTask:77 - Execution in Main Thread....
+2017-10-22 18:58:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 18:58:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 18:59:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 18:59:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:00:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:00:38 INFO  ScheduledTask:77 - Execution in Main Thread....
+2017-10-22 19:00:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:01:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:01:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:02:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:02:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:02:38 INFO  ScheduledTask:77 - Execution in Main Thread....
+2017-10-22 19:03:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:03:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:04:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:04:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:04:38 INFO  ScheduledTask:77 - Execution in Main Thread....
+2017-10-22 19:05:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:05:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:06:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:06:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:06:38 INFO  ScheduledTask:77 - Execution in Main Thread....
+2017-10-22 19:07:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:07:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:08:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:08:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:08:38 INFO  ScheduledTask:77 - Execution in Main Thread....
+2017-10-22 19:09:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:09:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:10:38 INFO  ScheduledTask:77 - Execution in Main Thread....
+2017-10-22 19:10:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:10:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:11:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:11:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:12:38 INFO  ScheduledTask:77 - Execution in Main Thread....
+2017-10-22 19:12:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:12:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:13:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:13:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:14:38 INFO  ScheduledTask:77 - Execution in Main Thread....
+2017-10-22 19:14:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:14:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:15:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:15:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:16:38 INFO  ScheduledTask:77 - Execution in Main Thread....
+2017-10-22 19:16:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:16:38 INFO  ReadCSVFile:88 - Creating JSON object
+2017-10-22 19:17:38 INFO  ReadCSVFile:47 - Reading from input file
+2017-10-22 19:17:38 INFO  ReadCSVFile:88 - Creating JSON object
