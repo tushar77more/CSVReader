@@ -58,12 +58,11 @@ public class ReadCSVFile
 				}
 			}
 
-			createJSONObject(empList);
+			createJSONObject(fileName,empList);
 		}
 		catch(Exception ee )
 		{
 			logger.error("Exception in file creating Employee object",ee);
-			ee.printStackTrace();
 		}
 		finally
 		{
@@ -84,7 +83,7 @@ public class ReadCSVFile
 	 * @param empList
 	 * @return void
 	 */
-	private void createJSONObject(List<Employee> empList){
+	private void createJSONObject(String fileName,List<Employee> empList){
 		logger.info("Creating JSON object");
 		JSONObject jsonObject = new JSONObject();
 		JSONArray jsonArray = new JSONArray();
@@ -95,7 +94,8 @@ public class ReadCSVFile
 
 		}
 		jsonObject.put("Employee Details", jsonArray);
-		try (FileWriter file = new FileWriter(outputfileName+now.getYear()+"-"+now.getMonth()+"-"+now.getDate()+"_"+now.getHours()+"."+now.getMinutes()+"."+now.getSeconds())) {
+		//try (FileWriter file = new FileWriter(outputfileName+now.getYear()+"-"+now.getMonth()+"-"+now.getDate()+"_"+now.getHours()+"."+now.getMinutes()+"."+now.getSeconds()+"."+now.get)) {
+		try (FileWriter file = new FileWriter(outputfileName,true)) {
 
 			file.write(jsonObject.toJSONString());
 			file.flush();

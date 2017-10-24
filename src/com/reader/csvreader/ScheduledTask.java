@@ -1,26 +1,27 @@
 package com.reader.csvreader;
 
+
+
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
-import java.util.Timer;
-import java.util.TimerTask;
-import java.util.Date;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 import org.apache.log4j.Logger;
 
-import com.customexceptions.CustomException;
 /**
  *This is main class which create task scheduler for every 60 secs 
  */
 
-public class ScheduledTask extends TimerTask {
+public class ScheduledTask  {
 
 	//Delimiters used in the CSV file
 	private static final String COMMA_DELIMITER = ",";
-	private static String inputfileName="";
+	private static String inputfilepath="";
 	private static String outputfileName="";
 	private static final String CONFIG_FILE="resources\\application.properties";
 	
@@ -31,10 +32,10 @@ public class ScheduledTask extends TimerTask {
 	 * @param 
 	 * @return void
 	 */	
-	public void run() {
+	/*public void run() {
 		try {
-		if((inputfileName != null && !inputfileName.isEmpty()) && (outputfileName != null && !outputfileName.isEmpty())){ 		//StringUtils.isEmpty(fileName)
-			new ReadCSVFile().fileReader(COMMA_DELIMITER,inputfileName,outputfileName);
+		if((inputfilepath != null && !inputfilepath.isEmpty()) && (outputfileName != null && !outputfileName.isEmpty())){ 		//StringUtils.isEmpty(fileName)
+			new ReadCSVFile().fileReader(COMMA_DELIMITER,inputfilepath,outputfileName);
 		}else{
 			logger.error("Sorry, something wrong with Configuration!");
 			throw new CustomException("properties not configured properly in'" + CONFIG_FILE + "'");
@@ -43,10 +44,11 @@ public class ScheduledTask extends TimerTask {
 			ex.printStackTrace();
 		}
 	
-	}
+	}*/
 	
 	/**
 	 * This is starting point of application. It will read configuration and create schedule task
+	 * This method create fixed thread pool with the help of executorService. we can also use cachethreadpool so that it will create new thread whenever required 
 	 * @param 
 	 * @return void
 	 */	
@@ -65,23 +67,35 @@ public class ScheduledTask extends TimerTask {
 			} else {
 				throw new FileNotFoundException("property file '" + CONFIG_FILE + "' not found in the classpath");
 			}
-			inputfileName=prop.getProperty("inputfilename");
+			inputfilepath=prop.getProperty("inputfilepath");
 			outputfileName=prop.getProperty("outfilename");
-			logger.info("Input File Names is "+inputfileName+" \nOutput File Name is"+outputfileName);
+			logger.info("Input File Names is "+inputfilepath+" \nOutput File Name is"+outputfileName);
 
-			Timer time = new Timer(); // Instantiate Timer Object
-			ScheduledTask st = new ScheduledTask(); // Instantiate SheduledTask class
-			time.schedule(st, 0, 60000); // Create Repetitively task for every 60 secs
+			 File Folder = new File(inputfilepath);
+		     File files[];
+		     files = Folder.listFiles();
+			
+		     if(files.length>0)
+		        {
+		        	ExecutorService executor = Executors.newFixedThreadPool(2);
+		        	for(int i = 0;i<files.length; i++){
+		        		logger.info("file reading started...");
+		        		logger.info(files[i]);
 
-			while(keepRunning) {
-				logger.info("Execution in Main Thread....");
-				Thread.sleep(120000);
-				if (!keepRunning) {
-					logger.info("Application Terminates");
-					System.exit(0);
-				}
-			}
-		} catch (IOException | InterruptedException ex) {
+		        		Runnable worker = new WorkerThread("" + files[i],outputfileName,COMMA_DELIMITER);
+		        		executor.execute(worker);
+
+		        	}
+		            executor.shutdown();
+		            while (!executor.isTerminated()) {
+		            }
+		            logger.info("Finished all threads");
+		        }
+		        else{
+		        	logger.info("No File found...");
+		        }
+			
+		} catch (IOException  ex) {
 			ex.printStackTrace();
 		} finally {
 			if (input != null) {
